@@ -4,7 +4,7 @@ Projeto com o objetivo de gerar um artigo técnico com um layout e leitura agrad
 
 ## O artigo
 Arigo sobre Leds e circuitos Elétricos para iniciantes
-<a href="#" title="View PDF now">📕Clique aqui para ler o artigo</a>
+<a href="https://github.com/ericare/artigo-por-I.A.s/blob/main/leia-o-artigo-aqui.pdf" title="View PDF now">📕Clique aqui para ler o artigo</a>
 
 ## Tecnologias utilizadas no projeto
 
